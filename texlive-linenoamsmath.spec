@@ -3,7 +3,7 @@ Version:	60655
 Release:	2
 Summary:	Use the lineno package together with amsmath
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/linenoamsmath
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/linenoamsmath
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/linenoamsmath.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/linenoamsmath.doc.r%{version}.tar.xz
